@@ -27,6 +27,10 @@ Using this script you can easily generate various types of reverse shells withou
 $ git clone https://github.com/thelinuxuser-choice/tankigen
 # change the working directory to tankigen
 $ cd tankigen
+#install the requirements 
+$pip install -r requirements.txt
+#fire it up
+$python3 tankigen.py
 ```
 
 ## Usage
