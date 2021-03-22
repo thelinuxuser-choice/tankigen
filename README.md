@@ -52,9 +52,11 @@ optional arguments:
 
 
 <p align='left'>
-    <img src = '/assets/scr1.png' height="500" width = '1000' >
+    <img src = '/assets/scr1.png' height="200" width = '500' >
 </p>
-
+<p align='right'>
+    <img src = '/assets/scr2.png' height="200" width = '500' >
+</p>
 
 
 
