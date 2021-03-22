@@ -46,7 +46,20 @@ optional arguments:
   -t TYPE, --type TYPE  Type of the reverse shell to generate
   -l, --list            List all available shell types
   -a, --all             Generate all the shells
+  
 ```
+## some screenshots
+
+
+<p align='center'>
+    <img src = '/assets/scr1.png' height="200" width = '500' >
+</p>
+
+
+
+
+
+
 
 ## Support & Contributions
 - Please ⭐️ this repository if this project helped you!
