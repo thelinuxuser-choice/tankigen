@@ -48,7 +48,7 @@ optional arguments:
   -a, --all             Generate all the shells
   
 ```
-## some screenshots
+## screenshot
 
 
 <p align='left'>
