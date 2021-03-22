@@ -52,7 +52,7 @@ optional arguments:
 
 
 <p align='left'>
-    <img src = '/assets/scr1.png' height="500" width = '500' >
+    <img src = '/assets/scr1.png' height="500" width = '1000' >
 </p>
 
 
