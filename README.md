@@ -51,8 +51,8 @@ optional arguments:
 ## some screenshots
 
 
-<p align='center'>
-    <img src = '/assets/scr1.png' height="200" width = '500' >
+<p align='left'>
+    <img src = '/assets/scr1.png' height="500" width = '500' >
 </p>
 
 
